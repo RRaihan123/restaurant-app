@@ -1,4 +1,4 @@
-/* import React , {useEffect, useState} from "react";
+import React , {useEffect, useState} from "react";
 import RestaurantCard from "./RestaurantCard";
 const RestaurantList = () => {
   const [restaurants, setRestaurants] = useState([])
@@ -27,4 +27,4 @@ const RestaurantList = () => {
       </div>
     </div>
   </div>)}
-export default RestaurantList; */
+export default RestaurantList;
